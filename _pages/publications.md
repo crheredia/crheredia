@@ -5,12 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+7.	Guédron, S.; Delaere, C.; Fritz, S. C.; Tolu, J.; Sabatier, P.; Devel, A.-L.; Heredia, C.; Vérin, C.; Alves, E. Q.; Baker, P. A. Holocene Variations in Lake Titicaca Water Level and Their Implications for Sociopolitical Developments in the Central Andes. Proc. Natl. Acad. Sci. 2023, 120 (2), e2215882120. https://doi.org/doi:10.1073/pnas.2215882120.
+14.	Heredia, C.; Guédron, S.; Point, D.; Perrot, V.; Campillo, S.; Verin, C.; Espinoza, M. E.; Fernandez, P.; Duwig, C.; Achá, D. Anthropogenic Eutrophication of Lake Titicaca (Bolivia) Revealed by Carbon and Nitrogen Stable Isotopes Fingerprinting. Sci. Total Environ. 2022, 845, 157286. https://doi.org/10.1016/j.scitotenv.2022.157286.
+15.	Guédron, S.; Tolu, J.; Delaere, C.; Sabatier, P.; Barre, J.; Heredia, C.; Brisset, E.; Campillo, S.; Bindler, R.; Fritz, S. C.; Baker, P. A.; Amouroux, D. Reconstructing Two Millennia of Copper and Silver Metallurgy in the Lake Titicaca Region (Bolivia/Peru) Using Trace Metals and Lead Isotopic Composition. Anthropocene 2021, 34, 100288. https://doi.org/10.1016/j.ancene.2021.100288.
+16.	Guédron, S.; Achá, D.; Bouchet, S.; Point, D.; Tessier, E.; Heredia, C.; Rocha-Lupa, S.; Fernandez-Saavedra, P.; Flores, M.; Bureau, S.; Quino-Lima, I.; Amouroux, D. Accumulation of Methylmercury in the High-Altitude Lake Uru Uru (3686 m a.s.l, Bolivia) Controlled by Sediment Efflux and Photodegradation. Appl. Sci. 2020, 10 (21), 7936. https://doi.org/10.3390/app10217936.
+17.	Guédron, S.; Audry, S.; Acha, D.; Bouchet, S.; Point, D.; Condom, T.; Heredia, C.; Campillo, S.; Baya, P. A.; Groleau, A.; Amice, E.; Amouroux, D. Diagenetic Production, Accumulation and Sediment-Water Exchanges of Methylmercury in Contrasted Sediment Facies of Lake Titicaca (Bolivia). Sci. Total Environ. 2020, 723, 138088. https://doi.org/10.1016/j.scitotenv.2020.138088.
+18.	Bouchet, S.; Goñi-Urriza, M.; Monperrus, M.; Guyoneaud, R.; Fernandez, P.; Heredia, C.; Tessier, E.; Gassie, C.; Point, D.; Guédron, S.; Achá, D.; Amouroux, D. Linking Microbial Activities and Low-Molecular-Weight Thiols to Hg Methylation in Biofilms and Periphyton from High-Altitude Tropical Lakes in the Bolivian Altiplano. Environ. Sci. Technol. 2018, 52 (17), 9758–9767. https://doi.org/10.1021/acs.est.8b01885.
+19.	Guédron, S.; Point, D.; Acha, D.; Bouchet, S.; Baya, P. A.; Tessier, E.; Monperrus, M.; Molina, C. I.; Groleau, A.; Chauvaud, L.; Thebault, J.; Amice, E.; Alanoca, L.; Duwig, C.; Uzu, G.; Lazzaro, X.; Bertrand, A.; Bertrand, S.; Barbraud, C.; Delord, K.; Gibon, F. M.; Ibanez, C.; Flores, M.; Fernandez Saavedra, P.; Ezpinoza, M. E.; Heredia, C.; Rocha, F.; Zepita, C.; Amouroux, D. Mercury Contamination Level and Speciation Inventory in Lakes Titicaca & Uru-Uru (Bolivia): Current Status and Future Trends. Environ. Pollut. 2017, 231, 262–270. https://doi.org/10.1016/j.envpol.2017.08.009.
