@@ -56,8 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : 
+# twitter:
+ # username               : 
 facebook:
   username               :
   app_id                 :
@@ -85,10 +85,10 @@ author:
   bio              : "PhD student at ISTerre"
   location         : "Grenoble, France"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=-M2jH8wAAAAJ&hl"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Carlos-Heredia-2"
   uri              :
   bitbucket        :
   codepen          :
