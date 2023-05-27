@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-**Page under construction**
+***Page under construction***
 
 I have a bachelors in Biology, a master in Hydroressoucres and I'm currently doing a PhD in Geochemistry.
 
 Research interests
 ===
-Paelo, Pead, 
+Paelo, Lead, 
