@@ -14,4 +14,4 @@ I have a bachelors in Biology, a master in Hydroressoucres and I'm currently doi
 
 Research interests
 ===
-Paelo, Lead, 
+Paleo, Lead, 
